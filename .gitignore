@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+.expo/
+dist/
+build/
+npm-debug.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
